@@ -11,6 +11,16 @@
 
 </div>
 
+## 👨‍💼 Professional Summary
+
+Aspiring Data Analyst | AI Undergraduate | Python & SQL Enthusiast
+
+**Career Focus:** Transitioning into Data Analytics with a strong foundation in Python, SQL, Excel, and Power BI. Passionate about transforming data into actionable insights and solving business problems through data-driven decision making.
+
+**Current Skills:** Python, SQL, Data Analysis, Excel, Power BI, API Integration, File I/O Operations
+
+**Goals:** Securing an entry-level Data Analyst or Data Science role where I can leverage my technical skills and analytical mindset to contribute to meaningful projects.
+
 ---
 
 ## 📋 Overview
@@ -153,7 +163,7 @@ All code in this repository follows these principles:
 ## 🔗 Connect With Me
 
 - **GitHub**: [surag29](https://github.com/surag29)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Surag Devadiga](https://www.linkedin.com/in/surag-devadiga-23347732)
 - **Email**: surudev29@gmail.com
 
 *Feel free to reach out for discussions about Python, learning strategies, or collaboration opportunities.*
